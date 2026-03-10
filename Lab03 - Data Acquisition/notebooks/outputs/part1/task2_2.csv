@@ -1,0 +1,7 @@
+book_title,borrower_name,borrow_date,due_date,days_overdue,estimated_fine
+Woman at Point Zero,Fatima Ali,2023-12-13,2023-12-27,804.0,1608
+The Yacoubian Building,Ahmed Hassan,2023-12-23,2024-01-06,794.0,1588
+The Yacoubian Building,Omar Khaled,2023-12-29,2024-01-12,788.0,1576
+Palace Walk,Omar Khaled,2024-01-10,2024-01-24,776.0,1552
+Palace Walk,Ahmed Hassan,2024-01-21,2024-02-04,765.0,1530
+God Dies by the Nile,Layla Mahmoud,2024-01-28,2024-02-11,758.0,1516

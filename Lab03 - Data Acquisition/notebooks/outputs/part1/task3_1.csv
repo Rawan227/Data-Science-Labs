@@ -1,0 +1,6 @@
+member_name,membership_type,total_borrowings,books_returned,books_still_borrowed,total_fines_paid,on_time_return_rate,member_category
+Ahmed Hassan,student,7,5,2,10.0,80.0,Very Active
+Omar Khaled,student,5,3,2,2.0,66.67,Active
+Layla Mahmoud,public,4,3,1,0.0,100.0,Active
+Fatima Ali,student,2,1,1,0.0,100.0,Active
+Mohamed Ibrahim,faculty,2,2,0,2.0,50.0,Active
