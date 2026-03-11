@@ -1,0 +1,5 @@
+The analysis shows that the library contains a range of modern Egyptian fiction books published between 1974 and 2024 by notable authors such as Nawal El Saadawi and Naguib Mahfouz.
+Borrowing activity is concentrated among a few members, with Ahmed Hassan being the most active user.
+Students generate the highest total fines, suggesting they return books later than other members.
+Some books like *The Yacoubian Building* and *Palace Walk* are frequently borrowed, while others have never been borrowed, indicating differences in popularity.
+The overdue records reveal several significantly late returns, and overall member analysis shows varying levels of engagement, with most members categorized as active borrowers.
