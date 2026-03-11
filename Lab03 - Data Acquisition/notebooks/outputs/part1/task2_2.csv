@@ -1,7 +1,10 @@
 book_title,borrower_name,borrow_date,due_date,days_overdue,estimated_fine
-Woman at Point Zero,Fatima Ali,2023-12-13,2023-12-27,804.0,1608
-The Yacoubian Building,Ahmed Hassan,2023-12-23,2024-01-06,794.0,1588
-The Yacoubian Building,Omar Khaled,2023-12-29,2024-01-12,788.0,1576
-Palace Walk,Omar Khaled,2024-01-10,2024-01-24,776.0,1552
-Palace Walk,Ahmed Hassan,2024-01-21,2024-02-04,765.0,1530
-God Dies by the Nile,Layla Mahmoud,2024-01-28,2024-02-11,758.0,1516
+The Days,Fatima Ali,2023-12-19,2024-01-02,799.0,1598
+God Dies by the Nile,Mohamed Ibrahim,2023-12-25,2024-01-08,793.0,1586
+The Yacoubian Building,Omar Khaled,2023-12-30,2024-01-13,788.0,1576
+The Yacoubian Building,Layla Mahmoud,2024-01-05,2024-01-19,782.0,1564
+The Days,Fatima Ali,2024-01-06,2024-01-20,781.0,1562
+The Days,Omar Khaled,2024-01-17,2024-01-31,770.0,1540
+Children of Gebelawi,Omar Khaled,2024-01-20,2024-02-03,767.0,1534
+Children of Gebelawi,Omar Khaled,2024-01-25,2024-02-08,762.0,1524
+Woman at Point Zero,Ahmed Hassan,2024-01-28,2024-02-11,759.0,1518
